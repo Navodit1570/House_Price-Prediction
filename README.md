@@ -14,10 +14,12 @@ https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
   * Html
   * CSS
   
+  
 ## Algorithm used:
   Linear Regression
 
-## output Screenshots:
+
+## Output Screenshots:
 
 ![out1](https://user-images.githubusercontent.com/75180496/160125668-8e9122eb-4b8d-4d3a-a4d5-851a0e9c2f7a.png)
 
